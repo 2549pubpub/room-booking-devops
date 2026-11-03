@@ -42,3 +42,11 @@ __screenshots__/
 # System files
 .DS_Store
 Thumbs.db
+
+# DevOps Worksheet 1-2 Additions
+/evidence/
+.env
+.env.*
+!.env.example
+*.pem
+*.key

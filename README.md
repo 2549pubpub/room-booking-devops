@@ -57,3 +57,13 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 ## Additional Resources
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+
+## DevOps handoff from worksheet 1-1
+Project: room-booking
+Features: room-search, room-list, booking-form, booking-history
+Data: frontend mock data; bookings reset on page refresh
+Backend API: none
+Build: 2026-11-03, Exit Code: 0
+Tests: 2026-11-03, Passed 11 tests, Exit Code: 0
+Known limitation: Mock data resets upon browser refresh
+Next step: review this commit before adding CI
